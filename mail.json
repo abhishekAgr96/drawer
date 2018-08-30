@@ -1,0 +1,104 @@
+[
+    {
+        "type":"primary",
+        "mail":[{
+            "from":"abhi",
+            "subject":"my subject",
+            "data":"thuis is my data",
+            "date":"28-8-2018"
+        },
+        {
+            "from":"aarchna",
+            "subject":"my subject",
+            "data":"thuis is my data",
+            "date":"28-8-2018"
+        },
+        {
+            "from":"meghna",
+            "subject":"my subject",
+            "data":"thuis is my data",
+            "date":"28-8-2018"
+        },
+        {
+            "from":"himanshu",
+            "subject":"my subject",
+            "data":"thuis is my data",
+            "date":"28-8-2018"
+        },
+        {
+            "from":"mayank",
+            "subject":"my subject",
+            "data":"thuis is my data",
+            "date":"28-8-2018"
+        }
+    ]
+    },
+    {
+        "type":"promotional",
+        "mail":[{
+            "from":"meghna",
+            "subject":"my subject",
+            "data":"thuis is my data",
+            "date":"28-8-2018"
+        },
+        {
+            "from":"abhishek",
+            "subject":"my subject",
+            "data":"thuis is my data",
+            "date":"28-8-2018"
+        },
+        {
+            "from":"abhishek",
+            "subject":"my subject",
+            "data":"thuis is my data",
+            "date":"28-8-2018"
+        },
+        {
+            "from":"abhishek",
+            "subject":"my subject",
+            "data":"thuis is my data",
+            "date":"28-8-2018"
+        },
+        {
+            "from":"abhishek",
+            "subject":"my subject",
+            "data":"thuis is my data",
+            "date":"28-8-2018"
+        }
+    ]
+    },
+    {
+        "type":"social",
+        "mail":[{
+            "from":"himanshu",
+            "subject":"my subject",
+            "data":"thuis is my data",
+            "date":"28-8-2018"
+        },
+        {
+            "from":"abhishek",
+            "subject":"my subject",
+            "data":"thuis is my data",
+            "date":"28-8-2018"
+        },
+        {
+            "from":"abhishek",
+            "subject":"my subject",
+            "data":"thuis is my data",
+            "date":"28-8-2018"
+        },
+        {
+            "from":"abhishek",
+            "subject":"my subject",
+            "data":"thuis is my data",
+            "date":"28-8-2018"
+        },
+        {
+            "from":"abhishek",
+            "subject":"my subject",
+            "data":"thuis is my data",
+            "date":"28-8-2018"
+        }
+    ]
+    }
+]

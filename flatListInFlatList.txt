@@ -1,0 +1,18 @@
+   <FlatList
+                 extraData={this.state}
+                 data={this.Array_Items}
+                 data={this.mailArray}
+                renderItem={({item})=>{
+                  this.setState({mailArray:item.mail})
+                  return(
+             //      <Text>{item.type}</Text>
+                  
+                  <FlatList
+                   data={(item.type==this.state.selectedType)?item.mail:''}
+                   renderItem={({item})=>{
+                     this.state.mailArray.push(item);
+                  //   return(<Text>abc</Text>) 
+                  }}/>
+
+                     )}}/>
+       
